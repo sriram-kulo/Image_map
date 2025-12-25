@@ -258,7 +258,5 @@ body {
 ```
 # OUTPUT
 <img width="1920" height="1080" alt="SRIRAM M 25000692" src="https://github.com/user-attachments/assets/a90688a9-61e5-4552-9817-a4c6a6b616c2" />
-<img width="1917" height="1079" alt="528686705-9acdf1ab-63ce-4056-a21c-a0ddfa26440b" src="https://github.com/user-attachments/assets/ab8d14a9-7657-4d99-8681-3221d04b2fd5" />
-
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
